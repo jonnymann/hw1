@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-  int N=10;
+  cout << "N = ";
+  cin >> N;
   int x1=0;
   int x2=1;
   int x3=1;
